@@ -2,6 +2,7 @@ google.com, pub-9296372483561531, DIRECT, f08c47fec0942fa0
 google.com, pub-9296372483561531, DIRECT, f08c47fec0942fa0
 google.com, pub-9296372483561531, DIRECT, f08c47fec0942fa0
 applovin.com, 63c7df7a6c8336926a069294809f25f0, DIRECT
+facebook.com, 1628327730754812, DIRECT, c3e20eee3f780d68
 inmobi.com, ce8fc8ddda9a4b85875594085f6ff476, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
